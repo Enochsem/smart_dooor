@@ -1,0 +1,6 @@
+sudo find /usr/local - name rpi_lcd> /dev/null
+
+
+Looking in indexes: https://pypi.org/simple, https://www.piwheels.org/simple
+Requirement already satisfied: rpi_lcd in /usr/local/lib/python2.7/dist-packages (0.0.2)
+Requirement already satisfied: smbus in /usr/local/lib/python2.7/dist-packages (from rpi_lcd) (1.1.post2)
